@@ -95,7 +95,7 @@
             width="40"
             height="40"
         />
-    </a>
+    </a><br>
     <a href="https://www.figma.com/" target="_blank">
       <img
           src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg"
@@ -132,4 +132,5 @@
         />
     </a>
 </p>
+
 
