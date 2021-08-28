@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **JavaScript and PHP**
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=cobalt)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=myat-mon&show_icons=true&theme=cobalt)
 
 
 
