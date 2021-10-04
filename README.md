@@ -20,6 +20,7 @@
     <a href="mailto: myatmonkyaw26@gmail.com" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg"
             alt="myatmon" height="30" width="40" /></a>
+    <a href="mailto: myatmonkyaw26@gmail.com" target="blank">Email Open icon by Icons8</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
