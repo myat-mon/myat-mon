@@ -17,10 +17,7 @@
     <a href="https://instagram.com/gloriamon.mmk" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="m_mon_k" height="30" width="40" /></a>
-    <a href="mailto: myatmonkyaw26@gmail.com" target="blank"><img align="center"
-            src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/email.svg"
-            alt="myatmon" height="30" width="40" /></a>
-    <a href="mailto: myatmonkyaw26@gmail.com" target="blank">Email Open icon by Icons8</a>
+    <a href="mailto: myatmonkyaw26@gmail.com" target="blank"><img src="https://img.icons8.com/fluency/48/000000/email-open.png"/></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
