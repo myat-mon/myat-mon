@@ -14,7 +14,7 @@
     <a href="https://fb.com/https://www.facebook.com/gloria.mon.18/" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
             alt="https://www.facebook.com/gloria.mon.18/" height="30" width="40" /></a>
-    <a href="https://instagram.com/gloriamon.mmk" target="blank"><img align="center"
+    <a href="https://instagram.com/m_mon_k" target="blank"><img align="center"
             src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
             alt="m_mon_k" height="30" width="40" /></a>
 </p>
